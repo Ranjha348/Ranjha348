@@ -6,4 +6,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can speak code in multiple languages—sometimes even in my dreams!
 
-I am currently working as a developer with experience in Next.js, Laravel, TailwindCSS, Bootstrap, React.js, and Alpine.js. I also have expertise in Magento 2. I take pride in writing clean, beautiful, and well-ordered code.
+I am currently working as a developer with experience in Next.js, Laravel, TailwindCSS, Bootstrap, React.js, jQuery and Alpine.js. I also have expertise in Magento 2. I take pride in writing clean, beautiful, and well-ordered code.
